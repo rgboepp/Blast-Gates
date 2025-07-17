@@ -25,7 +25,7 @@ captive_portal:
 globals:
   - id: open_position
     type: float
-    initial_value: '-50.0'  # Open position
+    initial_value: '-52.0'  # Open position
   - id: closed_position
     type: float
     initial_value: '26.0'   # Closed position
